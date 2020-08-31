@@ -1,11 +1,11 @@
 ### Hi 👋
 
 ## Currently working on algorithm optimization.
+<!--
 
 ![Optimize dat pizza](https://i.redd.it/ko6q5di4eq851.jpg)
 
 Source: https://www.reddit.com/r/mildlyinteresting/comments/hktraw/my_brother_cooking_2_pizzas_at_once/
-<!--
 **rmartinsanta/rmartinsanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
